@@ -1,0 +1,25 @@
+# 📅 Day 6 – Valves, Threads & Sensor Base
+
+---
+
+Modeled realistic mechanical parts that resemble components found in fluid and sensor systems.
+
+Created 3 models:
+- A **butterfly valve body** with symmetrical flanges
+- A **threaded nut** using helical cut  
+- A **torque sensor base** with bolt patterns
+
+---
+
+📸 Included:
+- Top, Front, Right, and Isometric views
+
+🔧 Tools Used: SolidWorks 2024  
+📁 Files: `/Day06/` folder contains `.SLDPRT` models and screenshots
+
+---
+
+✅ Reinforced skills in:
+- **Helical cut for threads**  
+- Modeling flange holes using **circular pattern**
+- Maintaining dimensional symmetry across projections
