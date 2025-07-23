@@ -1,0 +1,25 @@
+# 📅 Day 4 – Shells, Slots & Brackets
+
+---
+
+Practiced converting basic geometry into manufacturable 3D components using features like **Shell** and **Cut-Extrude**.
+
+Created 3 models:
+- A hollow cubical body using the **Shell** feature  
+- A slotted profile with internal cut  
+- A Tee-shaped bracket based on 2D projection
+
+---
+
+📸 Included:  
+- Front, Top, Right, and Isometric views (PNG)
+
+🔧 Tools Used: SolidWorks 2024  
+📁 Files: `/Day04/` folder contains `.SLDPRT` models and screenshots
+
+---
+
+✅ Reinforced skills in:
+- **Shell operations** for internal cavities  
+- **Sketch dimensioning and constraints**  
+- Clean use of **3rd angle projection**
