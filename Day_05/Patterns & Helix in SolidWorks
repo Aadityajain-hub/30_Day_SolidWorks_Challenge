@@ -1,0 +1,25 @@
+# 📅 Day 5 – Patterns & Helix in SolidWorks
+
+---
+
+Focused on **repetitive geometry** and **complex curves** using SolidWorks pattern and helix tools.
+
+Created 3 models:
+- A circular plate with holes using **Circular Pattern**
+- A spring using the **Helix/Spiral** feature
+- A block with repeated extrusions using **Linear Pattern**
+
+---
+
+📸 Included:
+- Front, Top, Right, and Isometric views (PNG)
+
+🔧 Tools Used: SolidWorks 2024  
+📁 Files: `/Day05/` folder contains `.SLDPRT` models and screenshots
+
+---
+
+✅ Reinforced skills in:
+- **Circular Pattern** for radial duplication  
+- **Helix** to create spiral geometry  
+- **Linear Pattern** for grid-aligned features
