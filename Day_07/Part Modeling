@@ -1,0 +1,52 @@
+# 📅 Day 7/30 – From Sketch to Solid
+
+**Challenge Theme:**  
+Transitioning from 2D sketches to fully-featured 3D solid models using SolidWorks 2024.
+
+---
+
+## 🎯 Objective
+
+Today's goal was to design a uniquely structured mechanical component from scratch — beginning with precise sketching and advancing through solid modeling features.
+
+The focus was on:
+- Understanding geometry intent before modeling
+- Applying advanced sketch tools and constraints
+- Turning 2D profiles into 3D models with detail and precision
+
+---
+
+## 🧰 Tools & Features Used
+
+- **Software:** SolidWorks 2024  
+- **Key Features:**
+  - 2D Sketching
+  - Smart Dimensions
+  - Mirror Entities
+  - Extruded Boss/Base
+  - Cut-Extrude
+  - Fillet & Chamfer
+  - Construction Geometry
+
+---
+
+## 📁 Files Included
+
+- `Day07_SketchToSolid.SLDPRT` – Solid part file  
+- `Day07_SketchToSolid.SLDDRW` *(optional)* – 2D drawing  
+- `Preview.png` – Model render image
+
+All files are available in this folder:  
+🔗 [`Day07-SketchToSolid`](./Day07-SketchToSolid)
+
+---
+
+## 📸 Preview
+
+![Model Preview](./Day07-SketchToSolid/Preview.png)
+
+---
+
+## 💡 Learning Outcome
+
+This day reinforced the importance of clear sketch planning, proper constraint use, and efficient feature creation. The result was a clean and functional component suitable for int
