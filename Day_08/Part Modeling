@@ -1,0 +1,25 @@
+# 🔧 Day 8 – SolidWorks 30-Day Challenge
+
+## 📝 Overview
+In Day 8 of the SolidWorks Challenge, I focused on modeling two precision-oriented mechanical plates. The goal was to enhance skills in contour-based extrusion and internal profile cuts while maintaining dimensional accuracy and design symmetry.
+
+## 🛠️ Tools Used
+- SolidWorks 2024 SP1.0
+
+## 🧩 Components Created
+
+### 1. Offset Plate
+- Features:
+  - Complex perimeter profile
+  - Multiple circular holes
+  - Slotted feature
+- Workflow:
+  - Sketch → Boss-Extrude → Cut-Extrude
+
+### 2. Frame Plate
+- Features:
+  - Closed rectangular loop with rounded corners
+  - Internal cutout
+  - Thin wall section
+- Workflow:
+  - Sketch outer and inner profile → Boss-Extrude → Cut inner region
