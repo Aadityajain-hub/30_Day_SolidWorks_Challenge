@@ -1,0 +1,27 @@
+# 🔧 Day 10/30: SolidWorks Challenge – From Casting to Complexity
+
+## 📌 Overview
+This folder contains two mechanical models designed on Day 10 of my 30-Day SolidWorks Challenge. The goal was to practice both **casting-friendly components** and **complex bracket geometries**, focusing on functional design and real-world manufacturability.
+
+
+## 🧩 Included Models
+
+### 1. Casting Component
+- Symmetrical design
+- Cylindrical ends with a connecting rectangular rib
+- Fillets applied to minimize stress concentration
+- Ideal for learning **parting lines**, **draft angles**, and **basic casting principles**
+
+### 2. Bracket Structure
+- Multi-plane design with overhangs and cutouts
+- Features include extruded bosses, revolved cuts, and mounting holes
+- Demonstrates understanding of **structural support**, **alignment**, and **manufacturing feasibility**
+
+---
+
+## 🛠 Tools & Techniques Used
+- SolidWorks 2024 SP1.0
+- Boss-Extrude, Cut-Extrude
+- Fillet tool for stress relief
+- Use of reference geometry for sketch planes
+- Multi-view modeling (Top, Front, Right, Isometric)
