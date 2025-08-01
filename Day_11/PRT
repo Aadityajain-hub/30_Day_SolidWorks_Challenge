@@ -1,0 +1,22 @@
+# 🔧 Day 11 – SolidWorks 30-Day Challenge
+
+Welcome to Day 11 of my **30-Day SolidWorks Challenge**!
+
+Today’s models cover a wide variety of essential mechanical components:
+
+## 🧩 Components Included:
+
+1. **Angle_BLOCK**
+   - Designed with symmetric constraints and multiple planes
+   - Often used in jigs and fixtures
+
+2. **Rod_SUPPORT**
+   - Dual-hole bracket design
+   - Useful in linkages and mechanical joints
+
+3. **Special_CAM**
+   - Custom geometry suited for motion-control or automation setups
+
+4. **WeldmentPrt**
+   - A cylindrical weldment part
+   - Typical for shafts, axles, or structural joints
