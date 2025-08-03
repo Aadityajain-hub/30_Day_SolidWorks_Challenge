@@ -1,0 +1,25 @@
+# 🔧 Day 13 –  (SolidWorks Challenge)
+
+Today’s focus was on modeling simple but important mechanical tools and components.
+
+---
+
+## 🛠️ Components:
+
+### 1. Spur Gear
+- A basic gear with straight teeth
+- Used in machines for transmitting motion
+- Tools used: Revolve, Circular Pattern
+
+### 2. Drill Bit
+- Tool used for drilling holes in materials
+- Designed with a spiral shape (helix + cut sweep)
+- Tools used: Helix Curve, Swept Cut
+
+### 3. Allen Key
+- Hex-shaped hand tool with a 90° bend
+- Used in tightening/loosening screws
+- Tools used: Extrude, Bend
+
+
+Today I designed three useful mechanical parts — tools we see often in workshops and machines.
