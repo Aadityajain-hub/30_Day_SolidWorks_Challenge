@@ -1,0 +1,23 @@
+# 🛠️ Day 14/30 – SolidWorks 30-Day Challenge
+
+### Components Designed:
+
+1. **Mounting Bracket (PrtModel1)**
+   - Used for structural support and securing assemblies.
+   - Features: Boss-Extrude, Hole Wizard, Fillet
+
+2. **Hinged Fixture (PrtModel2)**
+   - Designed for pivot-based mechanical motion.
+   - Features: Boss-Extrude, Cut-Extrude, Circular Pattern
+
+3. **Multi-Hole Plate (PrtModel3)**
+   - A slotted fixture plate for flexible component mounting.
+   - Features: Cut-Extrude, Linear Pattern, Mirror
+
+4. **Stepped Shaft**
+   - Common in rotary systems for torque transmission across sections.
+   - Features: Revolved Boss/Base, Fillet, Dimensioning
+
+5. **U Spanner**
+   - A basic hand tool designed for hex and nut fitting.
+   - Features: Extrude, Cut-Extrude, Chamfer
