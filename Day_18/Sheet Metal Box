@@ -1,0 +1,29 @@
+# 📦 Day 18 – Sheet Metal Box with Multiple Cutouts
+
+This is the 18th entry in my **30 Days of SolidWorks Sheet Metal Practice**. The focus for today was on building a **Sheet Metal Box** with multiple circular and slotted cutouts using standard sheet metal features.
+
+## 🧰 Tools & Features Used
+- Base Flange
+- Edge Flange (multiple faces)
+- Normal Cut
+- Extruded Cut
+- Corner Relief
+- Break Corner
+- Flat Pattern
+
+## 📁 File Info
+- **File Name:** `Sheet_Metal_Box.SLDPRT`
+- **Software:** SolidWorks 2024 SP1.0
+- **Units:** MMGS (Millimeter, Gram, Second)
+
+## 📐 Drawing Views
+- Top, Front, Right, and Isometric
+- Fully defined and centered cutouts
+- Flanges created with uniform bend parameters
+
+## 🎯 Objective
+To enhance skills in:
+- Multi-directional flange creation
+- Symmetric design using midplanes
+- Complex cut features on bent faces
+
