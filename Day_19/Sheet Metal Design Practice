@@ -1,0 +1,38 @@
+# Day 19 – Sheet Metal Design Practice
+
+This update showcases **five new sheet metal designs** created in SolidWorks as part of my daily CAD practice series.
+
+## Designs
+
+1. **Mounting Frame** *(SheetMetal_EX.6)*  
+   - Purpose: Holds components securely in place.  
+   - Features: Flanges for bolt connections, cutouts for weight reduction.  
+   - Applications: Machinery assembly, control panels.  
+
+2. **Power Supply Box** *(SheetMetal_EX.7)*  
+   - Purpose: Encloses and protects electrical power supply units.  
+   - Features: Ventilation holes, mounting tabs, foldable flanges.  
+   - Applications: Industrial electronics, automation systems.  
+
+3. **Steel Support** *(SheetMetal_EX.8)*  
+   - Purpose: Provides structural reinforcement.  
+   - Features: Rigid bends, precise hole placements.  
+   - Applications: Structural frames, mechanical mounts.  
+
+4. **Vent Part** *(SheetMetal_EX.9)*  
+   - Purpose: Allows airflow while maintaining structural integrity.  
+   - Features: Perforated holes, flange bends.  
+   - Applications: HVAC ducts, enclosures, cooling systems.  
+
+5. **Y Branch Pipe Connector** *(SheetMetal_EX.10)*  
+   - Purpose: Directs fluid or air into two separate paths.  
+   - Features: Angled bends, smooth transitions.  
+   - Applications: Piping systems, ventilation ducts.  
+
+---
+
+## 🛠 Tools & Skills
+- SolidWorks Sheet Metal Module
+- Bend allowances & reliefs
+- Hole patterns & flanges
+- 2D to 3D conversion
