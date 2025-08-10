@@ -1,0 +1,30 @@
+# Day 21 – Sheet Metal Design in SolidWorks
+
+Today’s focus was on **Sheet Metal Modelling** in SolidWorks, creating multiple parts using various sheet metal features such as *Base Flange, Edge Flange, Miter Flange, Hem, Bend, and Cutouts*. These designs demonstrate manufacturing-ready models that can be directly converted into flat patterns for fabrication.
+
+## **Projects Completed**
+1. **Beam**
+   - Created a structural sheet metal beam with slot and hole patterns.
+   - Included flat pattern for manufacturing.
+   - Practiced edge flange and cut-extrude features.
+
+2. **Machined Bracket**
+   - Designed a precision bracket with multiple bends and cutouts.
+   - Used sheet metal + machined feature workflow.
+   - Prepared for CNC machining after bending.
+
+3. **Mobile Stand**
+   - Developed a mobile holder from a single sheet metal piece.
+   - Incorporated bend relief and hem edges.
+   - Fully convertible to a flat sheet.
+
+4. **Vented Cover**
+   - Designed an enclosure with ventilation slots.
+   - Applied cut-extrudes and forming tools for airflow.
+   - Maintained manufacturability with minimal bend stress.
+
+## **Skills Practiced**
+- Sheet Metal Design & Flattening
+- Edge Flange, Miter Flange, and Hem usage
+- Bend Relief and K-Factor consideration
+- Manufacturing-oriented CAD modeling
