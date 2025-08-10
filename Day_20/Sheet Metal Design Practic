@@ -1,0 +1,31 @@
+# Day 20 - Sheet Metal Design Practice (SolidWorks)
+
+This folder contains my Day 20 practice files for **Sheet Metal Design** in SolidWorks.  
+The focus was on creating functional components with proper sheet metal features, bends, and manufacturing considerations.
+
+## 📂 Components Designed
+1. **Bracket**
+   - Custom sheet metal bracket with mounting holes and bend reliefs.
+   - Designed for easy manufacturability.
+   
+2. **Clevis Bracket**
+   - Precision hole placement for shaft and pin connections.
+   - Used edge flanges and flat pattern generation.
+   
+3. **Enclosure**
+   - Small protective casing with ventilation cut-outs.
+   - Created using base flange, tab, and forming tools.
+   
+4. **Reinforcement Ribs**
+   - Structural support ribs to increase rigidity.
+   - Optimized material usage.
+
+## 🛠 Skills & Features Used
+- Base Flange/Tab
+- Edge Flange
+- Hem & Jog
+- Cut-Extrude for sheet metal
+- Bend Relief
+- Flat Pattern generation
+- Hole Wizard
+
