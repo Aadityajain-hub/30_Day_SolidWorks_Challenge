@@ -1,0 +1,35 @@
+# 🚀 Day 22/30: SolidWorks Challenge – Assembly Practice  
+
+## 📌 Overview  
+On Day 22 of my 30-Day SolidWorks Challenge, I focused on **Part Modelling & Assembly Techniques** by creating and combining multiple custom components into functional assemblies.  
+This session helped me improve constraint application, alignment accuracy, and assembly documentation skills.  
+
+---
+
+## 🛠 Assemblies Created  
+
+### Assembly 1  
+- **Leg_Part**  
+- **Step_Part**  
+- **Top_Part**  
+
+### Assembly 2  
+- **Base Plate**  
+- **Roller Component**  
+- **Side Support**  
+
+---
+
+## 🎯 Skills Practiced  
+- **Sketch & Extrude Boss/Base**  
+- **Cut-Extrude for features**  
+- **Mate Constraints** (Coincident, Parallel, Distance)  
+- **Assembly Environment setup**  
+- **2D Drawing Creation for assemblies**  
+
+---
+
+## 💡 Key Learnings  
+- How to control part alignment using mates.  
+- The importance of tolerance in assembly fit.  
+- Efficient workflow between **Part** and **Assembly** environments.  
